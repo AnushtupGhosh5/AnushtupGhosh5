@@ -2,7 +2,7 @@
 <h3 align="center">Deep Learning • Backend Developer • Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Backend+Developer+%7C+DL+Learner;Flask+%7C+Express+%7C+Node.js;PyTorch+%7C+TensorFlow+%7C+NumPy;React+%7C+Next.js+%7C+Tailwind;Linux+Power+User+%7C+Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Backend+Developer+%7C+DL+Learner;Flask+%7C+Express+%7C+Node.js;PyTorch+%7C+TensorFlow+%7C+NumPy;React+%7C+Next.js+%7C+Tailwind" alt="Typing SVG" />
 </p>
 
 ---
